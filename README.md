@@ -34,6 +34,3 @@ I'm a Full Stack Developer passionate about building real-world applications and
 - Email: vithlanivivek9@gmail.com
 
                                               Thanks for visiting my profile!
-
-- LinkedIn: Add your LinkedIn URL here
-- Email: Your email here
