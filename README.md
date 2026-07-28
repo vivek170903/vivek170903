@@ -1,6 +1,3 @@
-
-**vivek170903/vivek170903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Vivek Vithlani 👋
 
 I'm a Full Stack Developer passionate about building real-world applications and solving problems through software.
